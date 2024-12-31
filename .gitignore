@@ -1,0 +1,11 @@
+# Ignore all .env files
+*.env
+
+.venv
+*.venv
+
+# Ignore all .yaml and .yml files
+*.yaml
+*.yml
+
+*/cloud-project-staz-210c4984a16b.json
